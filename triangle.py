@@ -12,3 +12,5 @@ def semiperimeter(side1: float, side2: float, side3: float) -> float:
     12.9
     """
     return perimeter(side1, side2, side3) / 2
+
+print(perimeter(3, 4, 5))
